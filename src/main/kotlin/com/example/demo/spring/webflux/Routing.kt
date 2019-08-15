@@ -1,4 +1,4 @@
-package com.example.demo.react.testing
+package com.example.demo.spring.webflux
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

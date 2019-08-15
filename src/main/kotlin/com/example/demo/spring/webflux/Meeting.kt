@@ -1,4 +1,4 @@
-package com.example.demo.react.testing
+package com.example.demo.spring.webflux
 
 import org.reactivestreams.Publisher
 import org.springframework.data.repository.reactive.ReactiveCrudRepository

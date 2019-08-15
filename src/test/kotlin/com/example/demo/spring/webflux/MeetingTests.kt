@@ -1,4 +1,4 @@
-package com.example.demo.react.testing
+package com.example.demo.spring.webflux
 
 import io.mockk.every
 import io.mockk.junit5.MockKExtension
